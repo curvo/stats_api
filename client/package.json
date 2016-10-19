@@ -5,6 +5,9 @@
   "repository": {
     "url": "https://github.com/curvo/angular2-seed"
   },
+  "engines": {
+   "node": "4.6.0"
+  },
   "scripts": {
     "build.dev": "gulp build.dev --color --config-env dev",
     "build.dev.watch": "gulp build.dev.watch --color",
